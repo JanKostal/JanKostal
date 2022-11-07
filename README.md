@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JanKostal
+- 👀 I’m interested in 3D printing
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on automation
